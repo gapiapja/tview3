@@ -29,7 +29,7 @@ TextLabel.BackgroundTransparency = 1
 TextLabel.Position = UDim2.new(0, 0, 0.817499995, 0)
 TextLabel.Size = UDim2.new(0, 400, 0, 73)
 TextLabel.Font = Enum.Font.SciFi
-if game.Players.LocalPlayer.Name == "jjkyt1234" then
+if game.Players.LocalPlayer.Name == "8bitvirus81" then
 TextLabel.Text = "Hi Youtube (:"
 else
 TextLabel.Text = "Welcome "..game.Players.LocalPlayer.Name
